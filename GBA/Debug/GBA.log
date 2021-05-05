@@ -1,0 +1,5 @@
+﻿  m_GameManager.cpp
+  arm-none-eabi-g++ -MMD -MP -MF /c/Users/Zack/Desktop/GBA/GBA/GBA/build/m_GameManager.d -gdwarf-2 -Wall -O2 -mcpu=arm7tdmi -mtune=arm7tdmi -fomit-frame-pointer -ffast-math -mthumb -mthumb-interwork -iquote /c/Users/Zack/Desktop/GBA/GBA/GBA/include -I/c/devkitPro/libgba/include -I/c/Users/Zack/Desktop/GBA/GBA/GBA/build -fno-rtti -fno-exceptions -c /c/Users/Zack/Desktop/GBA/GBA/GBA/source/m_GameManager.cpp -o m_GameManager.o 
+  linking cartridge
+  built ... GBA.gba
+  ROM fixed!

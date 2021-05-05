@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Game Objects">
+      <UniqueIdentifier>{468e630c-64cd-4aad-addc-936da622249f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects">
+      <UniqueIdentifier>{ff137d47-a1ac-4a99-a844-e57a3a32f0d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Objects">
+      <UniqueIdentifier>{887434aa-f6eb-4ee9-8c9a-4f3f1c2e22e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Maps">
+      <UniqueIdentifier>{352dd81d-cdda-4a95-b505-451f28e8183c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Objects\Mario">
+      <UniqueIdentifier>{86b5fa75-5ee9-46d2-b756-c46483fb34a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Maps\Level1">
+      <UniqueIdentifier>{02bb633a-80bc-472f-9424-fe552148629c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Maps\Intro">
+      <UniqueIdentifier>{11a15a81-68d5-4d5b-89a5-b06ea47b3cae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Maps\Menu">
+      <UniqueIdentifier>{33e84401-9640-4d55-b12a-3e56df9d7322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\gba files">
+      <UniqueIdentifier>{256eb3d6-04ff-40ab-8105-a9896e097dfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gba files">
+      <UniqueIdentifier>{17a9a0fc-f3ba-4d29-9779-bce3688f54f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Lookup table">
+      <UniqueIdentifier>{680df0b0-afe9-44f9-9dc2-c7e27d937949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{b7da9c72-421a-4685-b190-aa8e99a8bac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{bfc94f83-23ff-4694-b0fa-91f96e7a4eb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Objects\Text">
+      <UniqueIdentifier>{d79364a4-0929-4e40-bf68-d78113136200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Lookup table\sin">
+      <UniqueIdentifier>{fac1f1b8-1aa1-41b6-9ee6-426526906a54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Lookup table\Text">
+      <UniqueIdentifier>{c5e9b917-5eb3-48d8-b531-b5c3b1e35c5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Objects\Menu Banner">
+      <UniqueIdentifier>{adf2f695-ae97-4da7-b5d9-99dfd5e6cfd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Objects\Coins">
+      <UniqueIdentifier>{0cdcd556-90cd-42a7-952a-317d568d893e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+    <Text Include="Makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Intellisense.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\marioObject.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sprite.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\textObject.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_dma.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_drawing.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_gfx.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_input.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_math.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_mathUtil.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_reg.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_timers.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_types.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_vector2.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\m_GameManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="include\m_SpriteManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Mario_Sheet.h">
+      <Filter>Resource Files\Game Objects\Mario</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Title.h">
+      <Filter>Resource Files\Maps\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameTileSet.h">
+      <Filter>Resource Files\Maps\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Level1Data.h">
+      <Filter>Resource Files\Maps\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Menu0.h">
+      <Filter>Resource Files\Maps\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Menu1.h">
+      <Filter>Resource Files\Maps\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Menu2.h">
+      <Filter>Resource Files\Maps\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Text.h">
+      <Filter>Resource Files\Game Objects\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sinlut.h">
+      <Filter>Resource Files\Lookup table\sin</Filter>
+    </ClInclude>
+    <ClInclude Include="include\textlut.h">
+      <Filter>Resource Files\Lookup table\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MenuBanner.h">
+      <Filter>Resource Files\Game Objects\Menu Banner</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SmallCoin_Sheet.h">
+      <Filter>Resource Files\Game Objects\Coins</Filter>
+    </ClInclude>
+    <ClInclude Include="include\gba_Particles.h">
+      <Filter>Header Files\gba files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BigCoins_Sheet.h">
+      <Filter>Resource Files\Game Objects\Coins</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\marioObject.cpp">
+      <Filter>Source Files\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_drawing.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_gfx.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_input.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_math.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_mathUtil.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_timers.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\m_GameManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="source\m_SpriteManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Mario_Sheet.c">
+      <Filter>Resource Files\Game Objects\Mario</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Title.c">
+      <Filter>Resource Files\Maps\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Text.c">
+      <Filter>Resource Files\Game Objects\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="source\sinlut.c">
+      <Filter>Resource Files\Lookup table\sin</Filter>
+    </ClCompile>
+    <ClCompile Include="source\textlut.c">
+      <Filter>Resource Files\Lookup table\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GameTileSet.c">
+      <Filter>Resource Files\Maps\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Level1Data.c">
+      <Filter>Resource Files\Maps\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Menu0.c">
+      <Filter>Resource Files\Maps\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Menu1.c">
+      <Filter>Resource Files\Maps\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Menu2.c">
+      <Filter>Resource Files\Maps\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MenuBanner.c">
+      <Filter>Resource Files\Game Objects\Menu Banner</Filter>
+    </ClCompile>
+    <ClCompile Include="source\SmallCoin_Sheet.c">
+      <Filter>Resource Files\Game Objects\Coins</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BigCoins_Sheet.c">
+      <Filter>Resource Files\Game Objects\Coins</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gba_Particles.c">
+      <Filter>Source Files\gba files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

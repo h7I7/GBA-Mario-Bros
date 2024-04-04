@@ -2,7 +2,7 @@
 //	File Name:		gba_timers.h
 //	Description:	A header file for the timer defines and
 //					functions
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _GBA_TIMERS_H_

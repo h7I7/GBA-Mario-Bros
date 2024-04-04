@@ -953,7 +953,7 @@ LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-n
 END GROUP
 LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
 LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
-OUTPUT(c:/Users/Zack/Desktop/GBA/GBA/GBA/GBA.elf elf32-littlearm)
+OUTPUT(c:/Users/Lily/Desktop/GBA/GBA/GBA/GBA.elf elf32-littlearm)
 
 .debug_ranges   0x00000000      0x588
  .debug_ranges  0x00000000      0x180 m_GameManager.o

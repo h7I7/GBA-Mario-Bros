@@ -3,7 +3,7 @@
 //	Description:	The banner object in the menu, it's stored
 //					as one object and then later split into 9
 //					since it's too big for one object
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 // Menu banner with text

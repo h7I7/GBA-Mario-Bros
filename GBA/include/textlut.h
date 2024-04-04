@@ -3,7 +3,7 @@
 //	Description:	An ASCII lookup table for the alphabet in
 //					capitals and numbers 0-9 plus some extra
 //					characters
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _TEXTLUT_H_

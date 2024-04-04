@@ -2,7 +2,7 @@
 //	File Name:		gba.h
 //	Description:	A header file containing all the includes
 //					we will need in this projects
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef __GBA_H__

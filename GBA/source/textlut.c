@@ -3,7 +3,7 @@
 //	Description:	An ASCII lookup table for the alphabet in
 //					capitals and numbers 0-9 plus some extra
 //					characters
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short textLut[64]__attribute__((aligned(4))) =

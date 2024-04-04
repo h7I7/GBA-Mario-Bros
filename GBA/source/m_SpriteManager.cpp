@@ -3,7 +3,7 @@
 //	Description:	A header file containing the sprite manager
 //					class and a define for the max amount of
 //					normal objects we can have
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #include "m_SpriteManager.h"

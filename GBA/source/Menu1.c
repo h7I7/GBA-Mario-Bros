@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		Menu1.c
 //	Description:	The second background layer for the menu
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short Menu1[1024]__attribute__((aligned(4))) = {

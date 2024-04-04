@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		Title.c
 //	Description:	Bitmap file for the intro splash screen
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short TitleBitmap[19200]__attribute__((aligned(4)))=

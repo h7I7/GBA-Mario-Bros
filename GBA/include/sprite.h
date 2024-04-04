@@ -3,7 +3,7 @@
 //	Description:	A header file for the class of the sprite object that
 //					is used for animation and changing of attribute & affine
 //					data
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _SPRITE_H_

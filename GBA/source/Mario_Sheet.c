@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		Mario_Sheet.h
 //	Description:	The tiles and palette for the mario sprite
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short Mario_SheetTiles[448] __attribute__((aligned(4)))=

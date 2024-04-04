@@ -2,7 +2,7 @@
 //	File Name:		gba_gfx.h
 //	Description:	A header file for all the rendering and
 //					screen functionality
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef __GBA_GFX_H__

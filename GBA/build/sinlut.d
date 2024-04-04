@@ -1,1 +1,1 @@
-sinlut.o: c:/Users/Zack/Desktop/GBA/GBA/GBA/source/sinlut.c
+sinlut.o: c:/Users/Lily/Desktop/GBA/GBA/GBA/source/sinlut.c

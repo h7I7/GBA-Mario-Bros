@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		Text.c
 //	Description:	The tiles and palette for the text sprites
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short TextTiles[768] __attribute__((aligned(4))) =

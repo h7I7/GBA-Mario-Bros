@@ -1,1 +1,1 @@
-textlut.o: c:/Users/Zack/Desktop/GBA/GBA/GBA/source/textlut.c
+textlut.o: c:/Users/Lily/Desktop/GBA/GBA/GBA/source/textlut.c

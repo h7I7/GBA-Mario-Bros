@@ -5,7 +5,7 @@
 //					u8 represents an unsigned integer that is 8 bits in size, this would be an unsigned
 //					char on 0x86 systems. 
 //					These are defined like this for simplicity and to keep code in appropriate spaces
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef __GBA_TYPES_H__

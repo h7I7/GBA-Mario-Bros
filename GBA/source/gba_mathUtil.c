@@ -3,7 +3,7 @@
 //	Description:	A header file for maths functions we will
 //					be using as well as random number generation
 //					functions
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #include "gba_mathUtil.h"

@@ -2,7 +2,7 @@
 //	File Name:		gba_drawing.h
 //	Description:	A header file for the (now obsolete) drawing
 //					functions and defines
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef __GBA_DRAWING_H__

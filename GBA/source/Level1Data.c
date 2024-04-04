@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		Level1Data.c
 //	Description:	The tile map and collision map for level 1
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short Level1Map[]__attribute__((aligned(4))) =

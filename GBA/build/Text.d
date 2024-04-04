@@ -1,1 +1,1 @@
-Text.o: c:/Users/Zack/Desktop/GBA/GBA/GBA/source/Text.c
+Text.o: c:/Users/Lily/Desktop/GBA/GBA/GBA/source/Text.c

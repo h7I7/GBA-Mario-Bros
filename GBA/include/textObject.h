@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		textObject.h
 //	Description:	A header file for the class of the text object class.
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _TEXTOBJECT_H_

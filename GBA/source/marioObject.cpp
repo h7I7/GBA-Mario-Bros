@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		marioObject.cpp
 //	Description:	A header file for the class of the player object
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #include "marioObject.h"

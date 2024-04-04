@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		SmallCoin_Sheet.cpp
 //	Description:	The tiles and palette for the coin sprite
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short SmallCoinTiles[48] __attribute__((aligned(4))) =

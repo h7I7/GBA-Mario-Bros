@@ -2,7 +2,7 @@
 //	File Name:		gba_Particles.h
 //	Description:	A header file for all the particles structs
 //					and functionality
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _GBA_PARTICLES_H_

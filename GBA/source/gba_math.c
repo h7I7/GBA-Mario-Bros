@@ -2,7 +2,7 @@
 //	File Name:		gba_math.c
 //	Description:	A header file for fixed point numbers
 //					and sin/cosin lookup tables
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #include "gba_math.h"

@@ -3,7 +3,7 @@
 //	Description:	A header file for the enums, defines,
 //					classes and functionality needed for
 //					managing the game
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _M_GAMEMANAGER_H_

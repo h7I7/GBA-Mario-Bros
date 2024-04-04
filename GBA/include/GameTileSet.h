@@ -2,7 +2,7 @@
 //	File Name:		GameTileSet.h
 //	Description:	Palette and tiles for the game background
 //					tile maps
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _MAP_H_

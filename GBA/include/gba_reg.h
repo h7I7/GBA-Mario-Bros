@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 //	File Name:		gba_reg.h
 //	Description:	A header file that defines the base register addresses for I/O VRAM etc
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef __GBA_REG_H__

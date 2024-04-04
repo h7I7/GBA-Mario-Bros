@@ -2,7 +2,7 @@
 //	File Name:		gba_gfx.c
 //	Description:	A header file for all the rendering and
 //					screen functionality
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #include "Intellisense.h"

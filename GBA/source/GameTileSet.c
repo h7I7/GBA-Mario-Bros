@@ -2,7 +2,7 @@
 //	File Name:		GameTileSet.c
 //	Description:	Palette and tiles for the game background
 //					tile maps
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 const unsigned short GameTileSetTiles[2816]__attribute__((aligned(4))) =

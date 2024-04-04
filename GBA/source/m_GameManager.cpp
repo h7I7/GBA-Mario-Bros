@@ -3,7 +3,7 @@
 //	Description:	A header file for the enums, defines,
 //					classes and functionality needed for
 //					managing the game
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #include "gba.h"
@@ -634,7 +634,7 @@ void c_GameManager::Menu()
 
 				c_Text o_Credits_Text2;
 				o_Credits_Text2.u8_Length = 12;
-				o_SpriteManager.DrawText((char*)"ZACK RAEBURN", o_Credits_Text2.u8_Index, 75, 55, o_Credits_Text2.u8_Length);
+				o_SpriteManager.DrawText((char*)"Lily RAEBURN", o_Credits_Text2.u8_Index, 75, 55, o_Credits_Text2.u8_Length);
 
 				c_Text o_Credits_Text3;
 				o_Credits_Text3.u8_Length = 16;

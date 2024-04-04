@@ -2,7 +2,7 @@
 //	File Name:		gba_dma.h
 //	Description:	A header file for all the direct memory access
 //					defines and memory copying routines
-//	Author:			Zack Raeburn
+//	Author:			Lily Raeburn
 ////////////////////////////////////////////////////////////
 
 #ifndef _GBA_DMA_H_
